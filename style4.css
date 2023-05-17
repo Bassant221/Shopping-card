@@ -1,0 +1,71 @@
+.heeder{
+    background-color: #F5F5F5;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.logo{position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 0px;
+  top: 17px;
+
+}
+
+.vector{position: absolute;
+  width: 17px;
+  height:17px;
+  right: 30px;
+  top: 24px;
+
+} 
+
+.side-title{
+    width: 260px;
+    height: 65px; 
+    left: 500px;;
+    top: 15px;
+    margin-left: 5%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 60px;
+     margin: 0; 
+    
+
+    background: -webkit-linear-gradient( #F61B5A, #FE8A00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;   }
+
+
+
+  input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #F89300;
+  }
+.form{
+  height: 200px; 
+  width: 50%; 
+  background-color: powderblue; 
+}
+.button{
+ 
+    border: none;
+    color: #F61B5A;
+    padding: 6px ,10px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 5px;
+    cursor: pointer;
+
+    
+  }
+  
+  .button {background-color: rgba(0, 0, 0, 0.025);}

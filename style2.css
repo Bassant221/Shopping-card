@@ -1,0 +1,46 @@
+.heeder{
+    background-color: #F5F5F5;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.logo{position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 0px;
+  top: 17px;
+
+}
+
+.vector{position: absolute;
+  width: 17px;
+  height:17px;
+  right: 30px;
+  top: 24px;
+
+} 
+
+.side-title{
+   width: 260px;
+    height: 65px; 
+    left: 500px;;
+    top: 20px;
+    margin-left: 2%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 60px;
+    
+
+    background: -webkit-linear-gradient( #F61B5A, #FE8A00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;   }
+
+
+  
+  .details{
+
+    font-size: large;
+    text-align: right;
+  }
